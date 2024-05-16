@@ -1,0 +1,30 @@
+main {
+}
+.eightBall .circle{
+  width:200px;
+  height:200px;
+  background-color:black;
+  border-radius:50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.eightBall .innercircle{
+  width:155px;
+  height:155px;
+  background-color:black;
+  border-radius:50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.eightBall .eight{
+  font-size:20px;
+  font-weight:bold;
+  color:white;
+  font-weight:bold;
+  cursor:pointer;
+  
+}
